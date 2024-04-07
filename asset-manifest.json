@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test-react/static/css/main.d303fa75.css",
-    "main.js": "/test-react/static/js/main.e7eb5ce9.js",
-    "static/js/453.f0756a58.chunk.js": "/test-react/static/js/453.f0756a58.chunk.js",
-    "index.html": "/test-react/index.html",
-    "main.d303fa75.css.map": "/test-react/static/css/main.d303fa75.css.map",
-    "main.e7eb5ce9.js.map": "/test-react/static/js/main.e7eb5ce9.js.map",
-    "453.f0756a58.chunk.js.map": "/test-react/static/js/453.f0756a58.chunk.js.map"
+    "main.css": "/coaching/static/css/main.d303fa75.css",
+    "main.js": "/coaching/static/js/main.aeeab5af.js",
+    "static/js/453.f0756a58.chunk.js": "/coaching/static/js/453.f0756a58.chunk.js",
+    "index.html": "/coaching/index.html",
+    "main.d303fa75.css.map": "/coaching/static/css/main.d303fa75.css.map",
+    "main.aeeab5af.js.map": "/coaching/static/js/main.aeeab5af.js.map",
+    "453.f0756a58.chunk.js.map": "/coaching/static/js/453.f0756a58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d303fa75.css",
-    "static/js/main.e7eb5ce9.js"
+    "static/js/main.aeeab5af.js"
   ]
 }
