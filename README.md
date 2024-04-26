@@ -50,3 +50,6 @@ git remote add origin https://github.com/jmchza/coaching.git
 ```
 $ npm run deploy -- -m "Deploy React app to GitHub Pages"
 ```
+
+## Link to the website
+<a href="https://jmchza.github.io/coaching/">Here</a>
