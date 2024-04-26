@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: rgb(238, 238, 238);
 }
 
 .App-logo {
@@ -35,4 +36,64 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h3 {
+  font-family: 'orpheus-pro';
+  font-style: 'normal';
+  font-weight: '400';
+  /* font-height: '1.4em'; */
+  letter-spacing: '0em';
+}
+
+.custom-h3 {
+  font-size: calc(1rem + 0.1vw);
+  text-align: left;
+}
+
+.custom-img {
+  position: relative;
+  top: calc(25px + 1vh);
+}
+
+.about {
+  /* position: relative;
+  top: 100px; */
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: calc(1.2rem + 1vw);
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+}
+
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .header-blur-background {
+  }
+}
+
+.spacer {
+  padding-top: 40px;
+  /* padding-bottom: 40px */
+}
+
+.center {
+  font-family: 'roboto';
+  width: 80%;
+  font-style: italic;
+  padding-bottom: 50px;
+  font-size: calc(0.8em + 1vw);
 }
