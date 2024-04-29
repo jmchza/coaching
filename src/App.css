@@ -97,3 +97,7 @@ h3 {
   padding-bottom: 50px;
   font-size: calc(0.8em + 1vw);
 }
+
+.accordion-body-alignment {
+  text-align: left;
+}
