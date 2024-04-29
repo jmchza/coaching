@@ -18,16 +18,16 @@ function App() {
             srcSet='img/216.jpg' 
             sizes='(max-width: 300px) 300px, (max-width: 768px) 768px, 1280px'/>
           </Col>
-          <Col>
+          <Col xs={8}>
             <h2 className="center">Manuel Chouza is an Argentinian former Tennis player & IT Engineer living and Working in Munich.</h2>
           </Col>
         </Row>
         {/* <Row className="spacer"></Row> */}
         <Row>
-          <Col xs={6}>
+          <Col>
             <h3 className='about'>About</h3>
           </Col>
-          <Col xs={6}>
+          <Col xs={8}>
             <h3 className='custom-h3'>I began my tennis training at the age of 8, during the peak of tennis popularity in Argentina. Additionally, I was introduced to Padel at the same age. Throughout my academic years, I actively participated in (semi-professional) competitive tennis tournaments as a junior, adolescent, and adult. I also collaborated in tennis sparring sessions for players involved in challenges tournaments which is how profesional ATP players get shaped.</h3>
 
             <h3 className='custom-h3'>At the age of 14, I ventured into competitive Padel. Over the years, I have coached tennis across various skill levels in New Zealand, and I am currently coaching Padel here in Germany. Whether you're looking to refine your technique or enhance your strategic approach, I am here to assist you in reaching your goals.</h3>
@@ -35,19 +35,19 @@ function App() {
         </Row>
         <Row className="spacer"></Row>
         <Row>
-          <Col xs={6}>
+          <Col>
             <h3 className='about'>Contact</h3>
           </Col>
-          <Col xs={6}>
+          <Col xs={8}>
             <h3 className='custom-h3'>Feel fre to ask me any question or consultation you might have at: 017674676326</h3>
           </Col>
         </Row>
         <Row className="spacer"></Row>
         <Row>
-          <Col xs={6}>
+          <Col xs={4}>
             <h3 className='about'>FAQ</h3>
           </Col>
-          <Col xs={6}>
+        </Row>
           <Accordion defaultActiveKey="0" className='accordion-body-alignment'>
             <Accordion.Item eventKey="0">
               <Accordion.Header><b>What shoes to wear</b></Accordion.Header>
@@ -134,8 +134,6 @@ Given its huge popularity, you will have no problem finding people to share your
               </Accordion.Body>
             </Accordion.Item>
           </Accordion>
-          </Col>
-        </Row>
       </Container>
     </div>
   );
