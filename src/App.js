@@ -87,6 +87,8 @@ function App() {
               <Accordion.Header><b>Can I take lessons with a friend or my partner?</b></Accordion.Header>
               <Accordion.Body>
                 Naturelich, Yes you can, and there are some discounts on the cost per person if you take lessons with a partner.
+                See pdf document for pricing and discounts here: https://jmchza.github.io/coaching/img/Tarif%20Trainerstunde%20MC.pdf
+
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="7">
