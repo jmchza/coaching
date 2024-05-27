@@ -39,7 +39,9 @@ function App() {
             <h3 className='about'>Contact</h3>
           </Col>
           <Col xs={8}>
-            <h3 className='custom-h3'>Feel fre to ask me any question or consultation you might have at: 017674676326</h3>
+            <h3 className='custom-h3'>Feel fre to ask me any question or consultation you might have at: 017674676326, 
+            <br/>but before doing so please do yourself a favour, do not ignore the FAQ section down below that might answer all your questions beforehand. 
+            <br/>Thank you &#128591; </h3>
           </Col>
         </Row>
         <Row className="spacer"></Row>
@@ -68,7 +70,7 @@ function App() {
               * What time of the day is your preference, [morning, afternoon or evenings(after 5pm)]<br/>
               * Preference of location of the courts: <a href='https://maps.app.goo.gl/hvPj1EbxmHwUwvrC6'>Scheck</a>, <a href='https://maps.app.goo.gl/ZY98xuKTXVJa8p7y6'>Starnberg</a>, <a href='https://maps.app.goo.gl/5YWM6bfQ4ktGTDFfA'>Padel City</a><br/>
               * Whether you have a friend or partner to whom you will be taken lessons with<br/>
-              * Whether you want to take lessons by yourself only.
+              * Whether you want to take lessons by yourself only. See pricing <a href="https://jmchza.github.io/coaching/img/Tarif%20Trainerstunde%20MC.pdf">here</a>
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="4">
@@ -88,11 +90,21 @@ function App() {
               <Accordion.Body>
                 Naturelich, Yes you can, and there are some discounts on the cost per person if you take lessons with a partner.
                 <br/>See pdf document for pricing and discounts <a href="https://jmchza.github.io/coaching/img/Tarif%20Trainerstunde%20MC.pdf">here</a>
-
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="7">
-              <Accordion.Header><b>10 benefits of playing padel tennis</b></Accordion.Header>
+              <Accordion.Header><b>If you are in doubt whether to take your first lesson with a friend or not? Read this</b></Accordion.Header>
+              <Accordion.Body>
+                <br/>My recommendation is to take the first lesson always by yourself if you can.
+                <br/>Why? for various factors or reasons: 
+                <br/>* Individual lessons, allow me to get to know you better sooner, that means I can explore and discover your strengths, weakneses and needs sooner rather than later.
+                <br/>* By doing so, I get to know you better to personalise the classes to your real needs, thus you are in a way taking a shortcut to your progress.
+                <br/>* If you want to take Padel more serious, this is the best way to understand the game as whole, because not only do I work with your game but I also give you the game stategy and understanding for you to actually join the dots sooner as if you have play the game for many years.
+
+                </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="8">
+              <Accordion.Header><b>10 benefits of playing padel/tennis</b></Accordion.Header>
               <Accordion.Body>
               <b>1. It is suitable for all ages</b><br/>
 No matter how old you are, padel can be played at any age because it adapts very well to the rhythms of its players.
@@ -127,7 +139,7 @@ Like many team sports, padel tennis is really fun. Regardless of your level, pad
 Given its huge popularity, you will have no problem finding people to share your passion for padel tennis with. Try playing with people from your family, friends and work circles – you may discover interesting facets of people you’ve only interacted with in other areas so far.
                 </Accordion.Body>
             </Accordion.Item>
-            <Accordion.Item eventKey="8">
+            <Accordion.Item eventKey="9">
               <Accordion.Header><b>Interesting Articles to read about Tennis and Padel as Sport activities</b></Accordion.Header>
               <Accordion.Body>
                 * <a href='https://www.minterdial.com/2024/03/what-does-playing-padel-teach-us-about-how-to-be-better-at-work/'>What does playing padel teach us about how to be better at work</a><br/>
