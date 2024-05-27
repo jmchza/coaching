@@ -66,11 +66,13 @@ function App() {
             <Accordion.Item eventKey="3">
               <Accordion.Header><b>What to mention in your first message or introduction to me</b></Accordion.Header>
               <Accordion.Body>
-              * Whether you have never plaied Padel before<br/>
-              * What time of the day is your preference, [morning, afternoon or evenings(after 5pm)]<br/>
-              * Preference of location of the courts: <a href='https://maps.app.goo.gl/hvPj1EbxmHwUwvrC6'>Scheck</a>, <a href='https://maps.app.goo.gl/ZY98xuKTXVJa8p7y6'>Starnberg</a>, <a href='https://maps.app.goo.gl/5YWM6bfQ4ktGTDFfA'>Padel City</a><br/>
-              * Whether you have a friend or partner to whom you will be taken lessons with<br/>
-              * Whether you want to take lessons by yourself only. See pricing <a href="https://jmchza.github.io/coaching/img/Tarif%20Trainerstunde%20MC.pdf">here</a>
+                <ul>
+                  <li>Whether you have never plaied Padel before</li>
+                  <li>What time of the day is your preference, [morning, afternoon or evenings(after 5pm)]</li>
+                  <li>Preference of location of the courts: <a href='https://maps.app.goo.gl/hvPj1EbxmHwUwvrC6'>Scheck</a>, <a href='https://maps.app.goo.gl/ZY98xuKTXVJa8p7y6'>Starnberg</a>, <a href='https://maps.app.goo.gl/5YWM6bfQ4ktGTDFfA'>Padel City</a></li>
+                  <li>Whether you have a friend or partner to whom you will be taken lessons with</li>
+                  <li>Whether you want to take lessons by yourself only. See pricing <a href="https://jmchza.github.io/coaching/img/Tarif%20Trainerstunde%20MC.pdf">here</a></li>
+                </ul>
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="4">
@@ -97,9 +99,13 @@ function App() {
               <Accordion.Body>
                 <br/>My recommendation is to take the first lesson always by yourself if you can.
                 <br/>Why? for various factors or reasons: 
-                <br/>* Individual lessons, allow me to get to know you better sooner, that means I can explore and discover your strengths, weakneses and needs sooner rather than later.
-                <br/>* By doing so, I get to know you better to personalise the classes to your real needs, thus you are in a way taking a shortcut to your progress.
-                <br/>* If you want to take Padel more serious, this is the best way to understand the game as whole, because not only do I work with your game but I also give you the game stategy and understanding for you to actually join the dots sooner as if you have play the game for many years.
+                <ul>
+                  <li>Individual lessons, allow me to get to know you better sooner, that means I can explore and discover your strengths, weakneses and needs sooner rather than later.</li>
+                  <li>By doing so, I get to know you better to personalise the classes to your real needs, thus you are in a way taking a shortcut to your progress.</li>
+                  <li>If you want to take Padel more serious, this is the best way to understand the game as whole, because not only do I work with your game but I also give you the game stategy and understanding for you to actually join the dots sooner as if you have play the game for many years.</li>
+                </ul>
+                
+                
 
                 </Accordion.Body>
             </Accordion.Item>
