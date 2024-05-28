@@ -95,7 +95,7 @@ function App() {
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="7">
-              <Accordion.Header><b>If you are in doubt whether to take your first lesson with a friend or not? Read this</b></Accordion.Header>
+              <Accordion.Header><b>If you are in doubt whether to take your first lesson with a friend or not? You can read this</b></Accordion.Header>
               <Accordion.Body>
                 <br/>My recommendation is to take the first lesson always by yourself if you can.
                 <br/>Why? for various factors or reasons: 
@@ -104,9 +104,6 @@ function App() {
                   <li>By doing so, I get to know you better to personalise the classes to your real needs, thus you are in a way taking a shortcut to your progress.</li>
                   <li>If you want to take Padel more serious, this is the best way to understand the game as whole, because not only do I work with your game but I also give you the game stategy and understanding for you to actually join the dots sooner as if you have play the game for many years.</li>
                 </ul>
-                
-                
-
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="8">
