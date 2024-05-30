@@ -76,6 +76,13 @@ function App() {
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="4">
+              <Accordion.Header><b>Do I need to pay the cost of the court?</b></Accordion.Header>
+              <Accordion.Body>
+                Short answer is yes. The cost of the court is responibility of the client, while I can facilitate the booking if it is easier for you, 
+                at the end of the class the total cost will be the sum of the cost of the class plus the booking costs.
+              </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="5">
               <Accordion.Header><b>Facilities</b></Accordion.Header>
               <Accordion.Body>Starnberg club is the only club that partitions the time in slots of 45 min, 
               therefore you can get some benefits by paying smaller slots to improve very specific feature per slot.<br/>
@@ -83,18 +90,18 @@ function App() {
               <a href='https://maps.app.goo.gl/hvPj1EbxmHwUwvrC6'>Scheck</a>, <a href='https://maps.app.goo.gl/ZY98xuKTXVJa8p7y6'>Starnberg</a>, <a href='https://maps.app.goo.gl/5YWM6bfQ4ktGTDFfA'>Padel City</a>
               </Accordion.Body>
             </Accordion.Item>
-            <Accordion.Item eventKey="5">
+            <Accordion.Item eventKey="6">
               <Accordion.Header><b>Do I need to buy a racket before I take my 1st lesson?</b></Accordion.Header>
               <Accordion.Body>No you don't, you can borrow one from me and I can always advise you what racket to buy afterwards.</Accordion.Body>
             </Accordion.Item>
-            <Accordion.Item eventKey="6">
+            <Accordion.Item eventKey="7">
               <Accordion.Header><b>Can I take lessons with a friend or my partner?</b></Accordion.Header>
               <Accordion.Body>
                 Naturelich, Yes you can, and there are some discounts on the cost per person if you take lessons with a partner.
                 <br/>See pdf document for pricing and discounts <a href="https://jmchza.github.io/coaching/img/Tarif%20Trainerstunde%20MC.pdf">here</a>
                 </Accordion.Body>
             </Accordion.Item>
-            <Accordion.Item eventKey="7">
+            <Accordion.Item eventKey="8">
               <Accordion.Header><b>If you are in doubt whether to take your first lesson with a friend or not? You can read this</b></Accordion.Header>
               <Accordion.Body>
                 <br/>My recommendation is to take the first lesson always by yourself if you can.
@@ -106,7 +113,7 @@ function App() {
                 </ul>
                 </Accordion.Body>
             </Accordion.Item>
-            <Accordion.Item eventKey="8">
+            <Accordion.Item eventKey="9">
               <Accordion.Header><b>10 benefits of playing padel/tennis</b></Accordion.Header>
               <Accordion.Body>
               <b>1. It is suitable for all ages</b><br/>
@@ -142,7 +149,7 @@ Like many team sports, padel tennis is really fun. Regardless of your level, pad
 Given its huge popularity, you will have no problem finding people to share your passion for padel tennis with. Try playing with people from your family, friends and work circles – you may discover interesting facets of people you’ve only interacted with in other areas so far.
                 </Accordion.Body>
             </Accordion.Item>
-            <Accordion.Item eventKey="9">
+            <Accordion.Item eventKey="10">
               <Accordion.Header><b>Interesting Articles to read about Tennis and Padel as Sport activities</b></Accordion.Header>
               <Accordion.Body>
                 * <a href='https://www.minterdial.com/2024/03/what-does-playing-padel-teach-us-about-how-to-be-better-at-work/'>What does playing padel teach us about how to be better at work</a><br/>
